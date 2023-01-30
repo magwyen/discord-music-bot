@@ -1,5 +1,5 @@
-# discord-music-bot
-redradio discord bot
+# Discord Youtube Music Bot
+
 Docker hub link = https://hub.docker.com/r/magwyen/redradio
 ```bash
 docker run -it magwyen/redradio
